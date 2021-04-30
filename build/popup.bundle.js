@@ -83,7 +83,7 @@
               , i = "aqivalues" + e
               , r = chrome.i18n.getMessage(i).split(",");
             return console.log("labels:", i, "->", r),
-            r[n(t = r[n(t)])].trim()
+            r[n(t)].trim()
         }
         ,
         t.prototype.getText = function(t, e) {
@@ -1026,8 +1026,9 @@
         }
         ,
         t.prototype.onWidgetLoaded = function(t, e) {
+            var xxl = t.xxl.replace('420px', '460px');
             console.log("Widget loaded!"),
-            $("#cityaqiwidget").html(t.xxl).show(),
+            $("#cityaqiwidget").html(xxl).show(),
             $("#selectedcity").html("");
             var n = $("#aqiwgtmsg").html()
               , r = i.aqiLang.getAqiText(n, e);
