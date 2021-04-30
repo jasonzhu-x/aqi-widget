@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head><title>aqicn.org - Chrome Options</title></head>
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/moment-with-langs.min.js"></script>
+<link rel="stylesheet" href="../css/common.css">
+<link rel="stylesheet" href="../css/options.css">
+<body>
+
+<h1><img src='../img/aqicn.50.png' height=38 style='vertical-align:text-top;'> 
+<span class='i18n' id='waqi_title' ></span> <a href='http://aqicn.org'>World Air Quality Index - aqicn.org</a></h1>
+
+<div style='border-top:2px solid #bbb;border-bottom: 1px solid #eee;'></div>
+
+<div style='font-size:22px;'>
+
+  <span class='i18n' id='search_current_city' ></span> <span id='selectedcitytitle' style='color:#888;'></span>
+  <span id='selectedcityextrainfo' style='color:#888;font-size:18px;'>...</span>
+
+  <ul>
+
+     <input type="text" autocomplete="off" id='cityinput' name="q" placeholder="Select another city ..." value=""/>
+     <br>
+     <br>
+
+     <div id='searchresults'></div>
+   </ul>
+
+
+  <div style='border-top:2px solid #bbb;border-bottom: 1px solid #eee;'></div>
+
+  <span class='i18n' id='opt_engine' ></span>
+  <ul>
+
+	  <input type="checkbox" id="bing" checked="yes"></input>
+	  bing.com
+	  <br>
+
+	  <input type="checkbox" id="google" checked="yes"></input>
+	  google.com
+	  <br>
+
+	  <input type="checkbox" id="baidu" checked="yes"></input>
+	  baidu.com
+    <br>
+
+    <input type="checkbox" id="qwant" checked="yes"></input>
+    qwant.com
+  </ul>
+
+
+  <div style='border-top:2px solid #bbb;border-bottom: 1px solid #eee;'></div>
+
+  <span class='i18n' id='opt_design' ></span>
+  <ul id='design_selection'>
+
+
+  </ul>
+
+  <div style='border-top:2px solid #bbb;border-bottom: 1px solid #eee;'></div>
+
+  <span class='i18n' id='opt_lang' ></span>
+  <ul>
+    <input type="checkbox" id="langen" checked="yes"><span>
+    <img src='../img/flags/uk.png' style='vertical-align:text-top;' height=28>   <span class='i18n' id='lang_en' ></span> </input>
+    <br>
+    <input type="checkbox" id="langcn"><span>
+    <img src='../img/flags/cn.png' style='vertical-align:text-top;' height=28> <span class='i18n' id='lang_cn' ></span></input>
+    <br>
+    <input type="checkbox" id="langhk"><span>
+    <img src='../img/flags/hk.png' style='vertical-align:text-top;' height=28> <span class='i18n' id='lang_hk' ></span></input>
+    <br>
+    <input type="checkbox" id="langjp"><span>
+    <img src='../img/flags/jp.png' style='vertical-align:text-top;' height=28> <span class='i18n' id='lang_jp' ></span></input>
+    <br>
+    <input type="checkbox" id="langkr"><span>
+    <img src='../img/flags/kr.png' style='vertical-align:text-top;' height=28> <span class='i18n' id='lang_kr' ></span></input>
+  </ul>
+
+  <div style='border-top:2px solid #bbb;border-bottom: 1px solid #eee;'></div>
+
+</div>
+
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+
+  <div id='status'></div>
+
+  <script type="text/javascript" src="../build/options.bundle.js"></script>
+
+
+</body>
+</html>

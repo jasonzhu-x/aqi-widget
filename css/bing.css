@@ -1,0 +1,39 @@
+
+.aqi_tile {
+    width:186px;
+    height:88px;
+    display: inline-block;
+    padding-left: 10px;
+}
+
+.aqi_val {
+    font-size:45px;
+    display: inline-block;
+    min-width: 80px;
+    height:58px;
+    margin-top: 5px;
+    text-align: left;
+    font-variant: bold;
+}
+
+.aqi_time {
+    display: inline-block;
+    text-align: left;
+    min-width: 80px;
+}
+
+
+.aqi_logo {
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 116px;
+
+}
+
+#img_logo {
+    width:16px!important;
+    height:16px!important;
+    vertical-align:text-top;
+}
+
+

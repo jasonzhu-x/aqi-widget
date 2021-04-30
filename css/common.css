@@ -1,0 +1,121 @@
+
+.waqi-widget-outer {
+  border: 1px solid #eee;
+  box-shadow: 1px 1px 1px #00000022;
+  padding: 5px;
+  border-radius: 2px;
+  display: inline-block;
+
+}
+
+.waqi-forecast-day-aqi{
+  display: inline-block;
+  min-width:20px;
+  padding:2px 5px;
+  margin:0 2px;
+  border-radius:2px;
+}
+
+.waqi-widget-aqi {
+    border-radius:2px;
+   -moz-border-radius:2px;
+   -webkit-border-radius:2px;
+    padding:0px;
+    margin:0px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.aqioverlay {
+  color:#aaaaaa;
+  position: absolute;
+  top:0px;
+  left:0px;
+}
+
+.googleaqioverlaysearchresult {
+  max-width: 120px;
+  height: 60px;
+  padding:5px!important;
+  top: 60px;
+  border:0px solid red;
+  z-index: 8888;
+  overflow: hidden;
+  line-height: 25px;
+}
+
+.baiduaqioverlay {
+  padding:5px;
+}
+
+.googleaqioverlay {
+  padding:18px;
+}
+
+
+.waqi-widget-title {
+  vertical-align: top;
+    max-width: 100px;
+    display: inline-block;
+    overflow: hidden;
+    word-break: break-all;
+    max-height:15px;
+    margin: 0 3px;
+}
+
+.aqicnsearchresultdiv {
+  max-height:20px;
+  overflow: hidden;
+}
+
+.aqioption {
+  height:30px;
+}
+
+
+
+
+.aqiloader {
+    font-size: 10px;
+    position: relative;
+    text-indent: -9999em;
+    border-top: 1.1em solid rgba(0, 0, 0, 0.2);
+    border-right: 1.1em solid rgba(0, 0, 0, 0.2);
+    border-bottom: 1.1em solid rgba(0, 0, 0, 0.2);
+    border-left: 1.1em solid #fff;
+    -webkit-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    transform: translateZ(0);
+    -webkit-animation: aqiload8 1.1s infinite linear;
+    animation: aqiload8 1.1s infinite linear;
+}
+
+.aqiloader,
+.aqiloader:after {
+    border-radius: 50%;
+    width: 2em;
+    height: 2em;
+}
+
+@-webkit-keyframes aqiload8 {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes aqiload8 {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+

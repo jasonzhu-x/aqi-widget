@@ -1,0 +1,67 @@
+{
+   "appDesc": {
+      "description": "aqicn.org 插件Chrome浏览器.",
+      "message": "aqicn.orgプラグインChromeブラウザ。"
+   },
+   "appName": {
+      "description": "世界空气质量指数",
+      "message": "ワールド·エア·クオリティ·インデックス"
+   },
+   "aqivaluescn": {
+      "message": "\u003Cb> 没有数据 \u003C/b>, \u003Cb>优\u003C/b> , \u003Cb>良\u003C/b>, \u003Cb>轻度污染\u003C/b> , \u003Cb>中度污染\u003C/b>, \u003Cb>重度污染\u003C/b> , \u003Cb>严重污染\u003C/b>"
+   },
+   "aqivaluesen": {
+      "message": "no data, Good, Moderate, Unhealthy\u003Cbr>\u003Cspan style=font-size:18px;>for Sensitive Groups\u003C/span>, Unhealthy, Very Unhealthy, Hazardous"
+   },
+   "aqivalueshk": {
+      "message": "\u003Cb>沒有數據\u003C/b>, \u003Cb>優\u003C/b>, \u003Cb>良\u003C/b>, \u003Cb>輕度污染\u003C/b>, \u003Cb>中度污染\u003C/b>, \u003Cb>重度污染\u003C/b>, \u003Cb>嚴重污染\u003C/b>"
+   },
+   "aqivaluesjp": {
+      "message": "\u003Cb>データなし\u003C/b>, \u003Cb>優\u003C/b>, \u003Cb>良\u003C/b>, \u003Cb>軽微汚染\u003C/b>, \u003Cb>軽度汚染\u003C/b>, \u003Cb>中度汚染\u003C/b>, \u003Cb>重汚染\u003C/b>"
+   },
+   "aqivalueskr": {
+      "message": "\u003Cb>데이터가 없습니다\u003C/b>, \u003Cb>파랑\u003C/b>, \u003Cb>초록\u003C/b>, \u003Cb>노랑\u003C/b>, \u003Cb>주황\u003C/b>, \u003Cb>빨강\u003C/b>, \u003Cb>갈색\u003C/b>"
+   },
+   "lang_cn": {
+      "message": "中国語（簡体字）"
+   },
+   "lang_en": {
+      "message": "英語"
+   },
+   "lang_hk": {
+      "message": "（繁体字）中国語"
+   },
+   "lang_jp": {
+      "message": "日本"
+   },
+   "lang_kr": {
+      "message": "韓国"
+   },
+   "opt_engine": {
+      "message": "空気の品質インデックス情報が表示されます。"
+   },
+   "opt_lang": {
+      "message": "空気の品質インデックス情報が表示されます。"
+   },
+   "search_current_city": {
+      "message": "都市を選択："
+   },
+   "search_enter_city": {
+      "message": "都市名を入力"
+   },
+   "search_load_error": {
+      "message": "データのロード中に申し訳ありませんが、エラーが発生しました..."
+   },
+   "search_no_result": {
+      "message": "申し訳ありませんが、結果は！"
+   },
+   "search_select_another": {
+      "message": "別の都市を選択してください..."
+   },
+   "search_selected_city": {
+      "message": "選択した都市："
+   },
+   "waqi_title": {
+      "message": "ワールド·エア·クオリティ·インデックス"
+   }
+}

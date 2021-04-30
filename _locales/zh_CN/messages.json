@@ -1,0 +1,67 @@
+{
+   "appDesc": {
+      "description": "aqicn.org 插件Chrome浏览器.",
+      "message": "aqicn.org 插件Chrome浏览器."
+   },
+   "appName": {
+      "description": "世界空气质量指数",
+      "message": "世界空气质量指数"
+   },
+   "aqivaluescn": {
+      "message": "\u003Cb> 没有数据 \u003C/b>, \u003Cb>优\u003C/b> , \u003Cb>良\u003C/b>, \u003Cb>轻度污染\u003C/b> , \u003Cb>中度污染\u003C/b>, \u003Cb>重度污染\u003C/b> , \u003Cb>严重污染\u003C/b>"
+   },
+   "aqivaluesen": {
+      "message": "no data, Good, Moderate, Unhealthy\u003Cbr>\u003Cspan style=font-size:18px;>for Sensitive Groups\u003C/span>, Unhealthy, Very Unhealthy, Hazardous"
+   },
+   "aqivalueshk": {
+      "message": "\u003Cb>沒有數據\u003C/b>, \u003Cb>優\u003C/b>, \u003Cb>良\u003C/b>, \u003Cb>輕度污染\u003C/b>, \u003Cb>中度污染\u003C/b>, \u003Cb>重度污染\u003C/b>, \u003Cb>嚴重污染\u003C/b>"
+   },
+   "aqivaluesjp": {
+      "message": "\u003Cb>データなし\u003C/b>, \u003Cb>優\u003C/b>, \u003Cb>良\u003C/b>, \u003Cb>軽微汚染\u003C/b>, \u003Cb>軽度汚染\u003C/b>, \u003Cb>中度汚染\u003C/b>, \u003Cb>重汚染\u003C/b>"
+   },
+   "aqivalueskr": {
+      "message": "\u003Cb>데이터가 없습니다\u003C/b>, \u003Cb>파랑\u003C/b>, \u003Cb>초록\u003C/b>, \u003Cb>노랑\u003C/b>, \u003Cb>주황\u003C/b>, \u003Cb>빨강\u003C/b>, \u003Cb>갈색\u003C/b>"
+   },
+   "lang_cn": {
+      "message": "中国（简体）"
+   },
+   "lang_en": {
+      "message": "英语"
+   },
+   "lang_hk": {
+      "message": "中国（传统）"
+   },
+   "lang_jp": {
+      "message": "日本"
+   },
+   "lang_kr": {
+      "message": "韩国"
+   },
+   "opt_engine": {
+      "message": "顯示的空氣質量指數信息："
+   },
+   "opt_lang": {
+      "message": "显示空气质量指数信息："
+   },
+   "search_current_city": {
+      "message": "城市选择："
+   },
+   "search_enter_city": {
+      "message": "输入城市名称"
+   },
+   "search_load_error": {
+      "message": "對不起，在加載數據時發生錯誤..."
+   },
+   "search_no_result": {
+      "message": "很抱歉，没有结果！"
+   },
+   "search_select_another": {
+      "message": "选择另一个城市..."
+   },
+   "search_selected_city": {
+      "message": "所选城市："
+   },
+   "waqi_title": {
+      "message": "世界空气质量指数"
+   }
+}

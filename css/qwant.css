@@ -1,0 +1,29 @@
+/*
+* @Author: ron
+* @Date:   2018-03-11 14:10:06
+* @Last Modified by:   ron
+* @Last Modified time: 2018-03-13 15:01:39
+*/
+.waqi-widget {
+	cursor: pointer;
+}
+
+.waqi-widget-large-mobile {
+	z-index:8;
+	position: fixed;
+	right: 25%;
+	bottom: 0;
+}
+
+.waqi-widget-large {
+	height: 0px;
+	position: relative;
+	padding: 10px;
+	margin-top: 40px;
+	margin-left: 20px;
+}
+
+.waqi-widget-small, .waqi-widget-small-mobile {
+	display: inline-block;
+	padding-right: 20px;
+}

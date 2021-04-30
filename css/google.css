@@ -1,0 +1,25 @@
+/*
+* @Author: ron
+* @Date:   2015-12-09 08:59:39
+* @Last Modified by:   ron
+* @Last Modified time: 2018-03-17 11:35:22
+*/
+
+
+#waqi-goole-tile {
+	cursor: pointer;
+	padding: 18px;
+	position: absolute;
+	z-index: 88888;
+}
+
+
+.waqi-widget-small {
+	width:100px;
+	overflow-x:hidden;
+	text-align:center
+}
+
+.waqi-widget-small .waqi-widget-title {
+	max-width: 70px;
+}

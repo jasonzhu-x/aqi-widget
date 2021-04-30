@@ -1,0 +1,23 @@
+
+.waqi-widget-small {
+	position: absolute;
+    padding: 5px;
+    margin-top: 54px;
+    z-index: 1;
+    width: 100px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: .8em;
+	cursor: pointer;
+}
+
+.waqi-widget-large {
+	position:absolute;
+	padding:5px;
+	cursor: pointer;
+	z-index: 8888;
+}
+
+.waqi-widget-small .waqi-widget-title {
+	max-width: 70px;
+}

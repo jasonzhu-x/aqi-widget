@@ -1,0 +1,70 @@
+{
+   "appDesc": {
+      "description": "aqicn.org plugin for Chrome",
+      "message": "aqicn.org plugin for Chrome"
+   },
+   "appName": {
+      "description": "World Air Quality Index",
+      "message": "World Air Quality Index"
+   },
+   "aqivaluescn": {
+      "message": "\u003Cb> 没有数据 \u003C/b>, \u003Cb>优\u003C/b> , \u003Cb>良\u003C/b>, \u003Cb>轻度污染\u003C/b> , \u003Cb>中度污染\u003C/b>, \u003Cb>重度污染\u003C/b> , \u003Cb>严重污染\u003C/b>"
+   },
+   "aqivaluesen": {
+      "message": "no data, Good, Moderate, Unhealthy\u003Cbr>\u003Cspan style=font-size:18px;>for Sensitive Groups\u003C/span>, Unhealthy, Very Unhealthy, Hazardous"
+   },
+   "aqivalueshk": {
+      "message": "\u003Cb>沒有數據\u003C/b>, \u003Cb>優\u003C/b>, \u003Cb>良\u003C/b>, \u003Cb>輕度污染\u003C/b>, \u003Cb>中度污染\u003C/b>, \u003Cb>重度污染\u003C/b>, \u003Cb>嚴重污染\u003C/b>"
+   },
+   "aqivaluesjp": {
+      "message": "\u003Cb>データなし\u003C/b>, \u003Cb>優\u003C/b>, \u003Cb>良\u003C/b>, \u003Cb>軽微汚染\u003C/b>, \u003Cb>軽度汚染\u003C/b>, \u003Cb>中度汚染\u003C/b>, \u003Cb>重汚染\u003C/b>"
+   },
+   "aqivalueskr": {
+      "message": "\u003Cb>데이터가 없습니다\u003C/b>, \u003Cb>파랑\u003C/b>, \u003Cb>초록\u003C/b>, \u003Cb>노랑\u003C/b>, \u003Cb>주황\u003C/b>, \u003Cb>빨강\u003C/b>, \u003Cb>갈색\u003C/b>"
+   },
+   "lang_cn": {
+      "message": "Chinese (simplified)"
+   },
+   "lang_en": {
+      "message": "English"
+   },
+   "lang_hk": {
+      "message": "Chinese (traditional)"
+   },
+   "lang_jp": {
+      "message": "Japanese"
+   },
+   "lang_kr": {
+      "message": "Korean"
+   },
+   "opt_design": {
+      "message": "AQI widget visual style:"
+   },
+   "opt_engine": {
+      "message": "Show the AQI information on:"
+   },
+   "opt_lang": {
+      "message": "Display the AQI information in:"
+   },
+   "search_current_city": {
+      "message": "City Selection: "
+   },
+   "search_enter_city": {
+      "message": "Enter the name of a city "
+   },
+   "search_load_error": {
+      "message": "Sorry, an error occurred while loading the AQI data..."
+   },
+   "search_no_result": {
+      "message": "Sorry, no result!"
+   },
+   "search_select_another": {
+      "message": "Select another city..."
+   },
+   "search_selected_city": {
+      "message": "Selected city: "
+   },
+   "waqi_title": {
+      "message": "World Air Quality Index"
+   }
+}
