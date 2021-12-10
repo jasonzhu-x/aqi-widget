@@ -1030,6 +1030,7 @@
             console.log("Widget loaded!"),
             $("#cityaqiwidget").html(xxl).show(),
             $("#selectedcity").html("");
+            $("#aqiwgttitle1").attr("target","_blank");
             var n = $("#aqiwgtmsg").html()
               , r = i.aqiLang.getAqiText(n, e);
             $("#aqiwgtmsg").html(r)
